@@ -43,7 +43,7 @@ I'm a passionate Full Stack Developer with expertise in building web application
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-imran-m)
-- [Portfolio](https://imran-port-folio.netlify.app/)
+- [Portfolio](https://mohamedimranm.vercel.app/)
 
 Feel free to reach out if you have any questions, collaborations, or just want to say hi! 😊
 
